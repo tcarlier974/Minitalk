@@ -6,12 +6,12 @@
 /*   By: tcarlier <tcarlier@student.42perpignan.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/01 20:25:10 by tcarlier          #+#    #+#             */
-/*   Updated: 2024/12/01 21:16:00 by tcarlier         ###   ########.fr       */
+/*   Updated: 2025/01/23 16:52:06 by tcarlier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-
 #include "Minitalk.h"
+#include <stdio.h>
 
 int	atoi(const char *str)
 {
